@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping ext="mmap" type="Native" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="c" type="PLAIN_TEXT" />
+      <mapping pattern="CCC" type="PLAIN_TEXT" />
+      <mapping pattern="BBB" type="PLAIN_TEXT" />
+      <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern="sql" type="PLAIN_TEXT" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
+      <mapping pattern="AAA" type="PLAIN_TEXT" />
+      <mapping pattern=".idea" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping pattern="target" type="PLAIN_TEXT" />
+      <mapping pattern="DDD" type="PLAIN_TEXT" />
+      <mapping pattern="哈哈" type="PLAIN_TEXT" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="aaaaa" type="PLAIN_TEXT" />
+      <mapping pattern="datasource" type="Properties" />
+    </extensionMap>
+  </component>
+</application>

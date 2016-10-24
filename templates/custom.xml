@@ -1,0 +1,22 @@
+<templateSet group="custom">
+  <template name="enumi" value="ONE(1, &quot;描述1&quot;), TWO(2, &quot;描述2&quot;);&#10;&#10;private Integer code;&#10;&#10;private String desc;&#10;&#10;$className$(Integer code, String desc) {&#10;    this.code = code;&#10;    this.desc = desc;&#10;}&#10;&#10;public Integer getCode() {&#10;    return code;&#10;}&#10;&#10;public String getDesc() {&#10;    return desc;&#10;}&#10;&#10;private static Map&lt;Integer,$className$&gt; codeMap=new HashMap&lt;Integer,$className$&gt;();&#10;static{&#10;    for ($className$ ele : values()) {&#10;        codeMap.put(ele.getCode(),ele);&#10;    }&#10;}&#10;&#10;public static $className$ getByCode(Integer code) {&#10;    return codeMap.get(code);&#10;}" description="枚举Integer" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="enums" value="ONE(&quot;a&quot;, &quot;描述1&quot;), TWO(&quot;b&quot;, &quot;描述2&quot;);&#10;&#10;private String code;&#10;private String desc;&#10;&#10;$className$(String code, String desc) {&#10;    this.code = code;&#10;    this.desc = desc;&#10;}&#10;&#10;&#10;public String getCode() {&#10;    return code;&#10;}&#10;&#10;public String getDesc() {&#10;    return desc;&#10;}&#10;&#10;private static Map&lt;String, $className$&gt; codeMap = new HashMap&lt;String, $className$&gt;();&#10;&#10;static {&#10;    for ($className$ ele : values()) {&#10;        codeMap.put(ele.getCode(), ele);&#10;    }&#10;}&#10;&#10;public static $className$ getByCode(String code) {&#10;    return codeMap.get(code);&#10;}" description="枚举string" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="ps" value="private String " description="private String" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="newthread" value="            new Thread() {&#10;                public void run() {&#10;                        $END$&#10;                }&#10;            }.start();" description="new Thread" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

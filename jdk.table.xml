@@ -1,0 +1,331 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="IDEA jdk" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_51&quot;" />
+      <homePath value="C:/Program Files (x86)/Java/jdk1.8.0_51" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/access-bridge-32.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/lib/tools.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/src.zip!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.6" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_45&quot;" />
+      <homePath value="C:/Program Files (x86)/Java/jdk1.6.0_45" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/jre/lib/ext/sunpkcs11.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.6.0_45/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_51&quot;" />
+      <homePath value="C:/Program Files (x86)/Java/jdk1.8.0_51" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/access-bridge-32.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/src.zip!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.84openfire" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_51&quot;" />
+      <homePath value="C:/Program Files (x86)/Java/jdk1.8.0_51" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/access-bridge-32.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/cglib-nodep.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/commons-el.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/hamcrest-core.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/i4jruntime.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/jasper-compiler.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/jasper-runtime.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/jaxb-api.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/jmock-junit4.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/jmock-legacy.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/jmock.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/junit.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/objenesis.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/bcpg-jdk15on.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/bcpkix-jdk15on.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/bcprov-jdk15on.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/hsqldb.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/javax.websocket-api.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/jdic.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/jetty-schemas.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/jtds.jar!/" />
+            <root type="simple" url="file://E:/git/Openfire/build/lib/dist/log4j.xml" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/mail.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/mysql.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/npn-boot.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/postgres.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/servlet-api.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/dist/slf4j-log4j12.jar!/" />
+            <root type="simple" url="file://E:/git/Openfire/build/lib/dist/tray.dll" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/ant/ant-contrib.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/ant/ant-jive-edition.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/ant/qdox.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/ant/xalan.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/ant/xmltask.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/commons-codec.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/commons-httpclient.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/commons-lang.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/commons-logging.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/concurrentlinkedhashmap-lru-1.0_jdk5.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/dbutil.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/dom4j.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/javassist.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/javax-websocket-client-impl.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/javax-websocket-server-impl.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jaxen.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jdom.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-continuation.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-http.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-io.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-jmx.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-security.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-server.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-servlet.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-servlets.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-util.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-webapp.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jetty-xml.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jmdns.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jsp-api.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jstl.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/jzlib.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/libidn.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/log4j.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/mina-core.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/mina-filter-compression.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/mina-integration-beans.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/mina-integration-jmx.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/mina-integration-ognl.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/ognl.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/proxool.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/rome-fetcher.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/rome.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/shaj.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/sitemesh.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/slf4j-api.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/spdy-client.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/spdy-core.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/spdy-http-common.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/spdy-http-server.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/spdy-http.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/spdy-server.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/standard.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/stringprep.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/tinder.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/websocket-api.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/websocket-client.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/websocket-common.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/websocket-server.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/websocket-servlet.jar!/" />
+            <root type="simple" url="jar://E:/git/Openfire/build/lib/merge/xpp3.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/src.zip!/" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_51/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_72&quot;" />
+      <homePath value="D:/Program Files/Java/jdk1.7.0_72" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/jfxrt.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javafx/2/api/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/Program Files/Java/jdk1.7.0_72/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
