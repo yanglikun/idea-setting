@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'springmvc'" />
     <option name="defaultScopeName" value="Project 'springmvc'" />
     <option name="SEARCH_SCOPE" value="Project 'springmvc'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -29,8 +29,8 @@
       <mask>*.vm</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.properties</mask>
       <mask>*.java</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
