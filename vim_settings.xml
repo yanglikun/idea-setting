@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/worksapce/java8/src/test/java/test/Main.java" timestamp="1476342586822">
@@ -28,6 +28,9 @@
         <mark key="[" line="713" column="0" />
         <mark key="]" line="713" column="0" />
         <mark key="." line="713" column="0" />
+      </file>
+      <file name="D:/worksapce/travel/jd-travel/jd-travel-enterprise-web/src/main/resources/spring/spring-sso-springmvc.xml" timestamp="1477984819778">
+        <mark key="[" line="11" column="107" />
       </file>
     </filemarks>
     <jumps>
