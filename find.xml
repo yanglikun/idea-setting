@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'springmvc'" />
     <option name="defaultScopeName" value="Project 'springmvc'" />
     <option name="SEARCH_SCOPE" value="Project 'springmvc'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -22,15 +22,15 @@
       <mask>*controller.java</mask>
       <mask>*</mask>
       <mask>*.html</mask>
-      <mask>*.pom</mask>
       <mask>web.xml</mask>
       <mask>*.class</mask>
       <mask>*.vm</mask>
-      <mask>pom.xml</mask>
       <mask>*.properties</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
+      <mask>*.pom</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
