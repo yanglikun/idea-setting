@@ -24,10 +24,10 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoServiceImpl.java" timestamp="1477981072958">
-        <mark key="[" line="715" column="0" />
-        <mark key="]" line="715" column="0" />
-        <mark key="." line="715" column="0" />
+      <file name="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoServiceImpl.java" timestamp="1477982661230">
+        <mark key="[" line="713" column="0" />
+        <mark key="]" line="713" column="0" />
+        <mark key="." line="713" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -44,7 +44,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUcmF2ZWxPcmRlciB0cmF2ZWxPcmRlciA9IGJ1aWxkTG9jYWxPcmRlcihlcnBPcmRlcklkLCBib29rQmVhbiwgY29zdENlbnRlciwgYm9va1BhZ2VSZXEsIGFjY291bnQpOwogICAgICAgIExpc3Q8VHJhdmVsUmVhc29uPiB0cmF2ZWxSZWFzb25zID0gYnVpbGRUcmF2ZWxSZWFzb24oZXJwT3JkZXJJZCwgYm9va1BhZ2VSZXEpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>23</text>
@@ -53,31 +53,31 @@
         <text>list</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUcmF2ZWxPcmRlciB0cmF2ZWxPcmRlciA9IGJ1aWxkTG9jYWxPcmRlcihlcnBPcmRlcklkLCBib29rQmVhbiwgY29zdENlbnRlciwgYm9va1BhZ2VSZXEsIGFjY291bnQpOwogICAgICAgIExpc3Q8VHJhdmVsUmVhc29uPiB0cmF2ZWxSZWFzb25zID0gYnVpbGRUcmF2ZWxSZWFzb24oZXJwT3JkZXJJZCwgYm9va1BhZ2VSZXEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFRyYXZlbFJlYXNvbiB0cmF2ZWxSZWFzb24gOiB0cmF2ZWxSZWFzb25zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKFRyYXZlbFJlYXNvbiB0cmF2ZWxSZWFzb24gOiB0cmF2ZWxSZWFzb25zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>23</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKFRyYXZlbFJlYXNvbiB0cmF2ZWxSZWFzb24gOiB0cmF2ZWxSZWFzb25zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="5" type="4">
-        <text>3</text>
-      </register>
-      <register name="6" type="4">
-        <text>14</text>
-      </register>
-      <register name="7" type="4">
         <text>23</text>
       </register>
+      <register name="6" type="4">
+        <text>3</text>
+      </register>
+      <register name="7" type="4">
+        <text>14</text>
+      </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>23</text>
       </register>
       <register name="9" type="4">
-        <text>4</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>%s/^$//g</text>
