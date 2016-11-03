@@ -11,12 +11,19 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="ps" value="private String " description="private String" toReformat="true" toShortenFQNames="true">
-    <context />
+  <template name="ps" value="private String $END$" description="private String" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
   </template>
   <template name="newthread" value="            new Thread() {&#10;                public void run() {&#10;                        $END$&#10;                }&#10;            }.start();" description="new Thread" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="private Integer $END$" description="private Integer" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
