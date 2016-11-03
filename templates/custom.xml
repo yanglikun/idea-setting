@@ -11,7 +11,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="ps" value="private String $END$" description="private String" toReformat="true" toShortenFQNames="true">
+  <template name="ps" value="/**&#10; *&#10; */&#10;private String $END$;" description="private String" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
@@ -21,7 +21,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="pi" value="private Integer $END$" description="private Integer" toReformat="true" toShortenFQNames="true">
+  <template name="pi" value="/**&#10; *&#10; */&#10;private Integer $END$;" description="private Integer" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
