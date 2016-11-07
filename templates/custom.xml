@@ -11,7 +11,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="ps" value="/**&#10; *&#10; */&#10;private String $END$;" description="private String" toReformat="true" toShortenFQNames="true">
+  <template name="ps" value="/**&#10; *&#10; */&#10;private String $END$;" description="private String" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
