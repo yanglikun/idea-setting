@@ -27,9 +27,9 @@
       <mask>*.vm</mask>
       <mask>*.pom</mask>
       <mask>pom.xml</mask>
-      <mask>*.properties</mask>
       <mask>*.js</mask>
       <mask>*.xml</mask>
+      <mask>*.properties</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
