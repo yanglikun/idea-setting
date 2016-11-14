@@ -35,7 +35,8 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoServiceImpl.java" timestamp="1477982661230">
+      <file name="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoServiceImpl.java" timestamp="1479113301571">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="713" column="0" />
         <mark key="]" line="713" column="0" />
         <mark key="." line="713" column="0" />
@@ -60,6 +61,8 @@
       <jump line="13" column="0" filename="D:/worksapce/travel/jd-travel/jd-travel-dao/src/main/resources/sqlmap/Application.xml" />
       <jump line="28" column="0" filename="D:/worksapce/travel/jd-travel/jd-travel-dao/src/main/resources/sqlmap/Application.xml" />
       <jump line="118" column="64" filename="D:/worksapce/travel/jd-travel/jd-travel-dao/src/main/resources/sqlmap/TravelOrder.xml" />
+      <jump line="52" column="0" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoServiceImpl.java" />
+      <jump line="1" column="0" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
