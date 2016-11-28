@@ -28,8 +28,8 @@
       <mask>struts*.xml</mask>
       <mask>*.properties</mask>
       <mask>pom.xml</mask>
-      <mask>*.vm</mask>
       <mask>*.java</mask>
+      <mask>*.vm</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
