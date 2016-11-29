@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'jd-train'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="struts*.xml" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -27,12 +27,12 @@
       <mask>*.class</mask>
       <mask>*.js</mask>
       <mask>*.pom</mask>
-      <mask>struts*.xml</mask>
       <mask>*.properties</mask>
       <mask>pom.xml</mask>
       <mask>*.vm</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>struts*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
