@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'jd-train'" />
     <option name="defaultScopeName" value="Project 'jd-train'" />
     <option name="SEARCH_SCOPE" value="Project 'jd-train'" />
-    <option name="FILE_MASK" value="struts*.xml" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -26,11 +26,11 @@
       <mask>*.js</mask>
       <mask>*.pom</mask>
       <mask>*.properties</mask>
-      <mask>pom.xml</mask>
       <mask>*.vm</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>struts*.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
