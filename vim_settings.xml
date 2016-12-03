@@ -17,7 +17,6 @@
         <mark key="]" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
-      <file name="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/pay/JinCaiPayServcie.java" timestamp="1480743048583" />
       <file name="D:/worksapce/travel/jd-travel/jd-travel-enterprise-web/src/main/java/com/jd/travel/web/controller/oa/jipiao/JiPiaoOAController.java" timestamp="1480733656213">
         <mark key="'" line="101" column="19" />
         <mark key="[" line="225" column="36" />
@@ -60,6 +59,9 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="D:/worksapce/air.jipiao/airplane-service/src/main/java/com/jd/airplane/service/utils/BookINTFlightUtils.java" timestamp="1480757109411">
+        <mark key="'" line="953" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="146" column="42" filename="D:/worksapce/pop/jd-lottery/branches/20150612_ccl/jd-lottery-web/src/main/webapp/WEB-INF/vm/activity/ccl_blueNum.vm" />
@@ -85,6 +87,10 @@
       <jump line="0" column="0" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoBaseService.java" />
       <jump line="280" column="8" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoBaseService.java" />
       <jump line="101" column="19" filename="D:/worksapce/travel/jd-travel/jd-travel-enterprise-web/src/main/java/com/jd/travel/web/controller/oa/jipiao/JiPiaoOAController.java" />
+      <jump line="595" column="42" filename="D:/worksapce/air.jipiao/airplane-service/src/main/java/com/jd/airplane/service/utils/BookINTFlightUtils.java" />
+      <jump line="747" column="8" filename="D:/worksapce/air.jipiao/airplane-service/src/main/java/com/jd/airplane/service/utils/BookINTFlightUtils.java" />
+      <jump line="784" column="8" filename="D:/worksapce/air.jipiao/airplane-service/src/main/java/com/jd/airplane/service/utils/BookINTFlightUtils.java" />
+      <jump line="953" column="0" filename="D:/worksapce/air.jipiao/airplane-service/src/main/java/com/jd/airplane/service/utils/BookINTFlightUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
