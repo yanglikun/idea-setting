@@ -17,6 +17,12 @@
         <mark key="]" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
+      <file name="D:/worksapce/travel/jd-travel/jd-travel-enterprise-web/src/main/java/com/jd/travel/web/controller/oa/jipiao/JiPiaoOAController.java" timestamp="1480733656213">
+        <mark key="'" line="101" column="19" />
+        <mark key="[" line="225" column="36" />
+        <mark key="]" line="225" column="36" />
+        <mark key="." line="225" column="36" />
+      </file>
       <file name="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoServiceImpl.java" timestamp="1479113301571">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="713" column="0" />
@@ -77,13 +83,14 @@
       <jump line="269" column="23" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoBaseService.java" />
       <jump line="0" column="0" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoBaseService.java" />
       <jump line="280" column="8" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoBaseService.java" />
+      <jump line="101" column="19" filename="D:/worksapce/travel/jd-travel/jd-travel-enterprise-web/src/main/java/com/jd/travel/web/controller/oa/jipiao/JiPiaoOAController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Prov</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Prov</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
