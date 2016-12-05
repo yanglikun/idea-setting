@@ -135,7 +135,7 @@
         <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>on</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -166,8 +166,8 @@
         <entry>only</entry>
         <entry>wq</entry>
         <entry>wqa</entry>
-        <entry>qa</entry>
         <entry>on</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
