@@ -105,7 +105,7 @@
         <text>Prov</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text>dd2</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBUcmF2ZWxPcmRlciB0cmF2ZWxPcmRlciA9IGJ1aWxkTG9jYWxPcmRlcihlcnBPcmRlcklkLCBib29rQmVhbiwgY29zdENlbnRlciwgYm9va1BhZ2VSZXEsIGFjY291bnQpOwogICAgICAgIExpc3Q8VHJhdmVsUmVhc29uPiB0cmF2ZWxSZWFzb25zID0gYnVpbGRUcmF2ZWxSZWFzb24oZXJwT3JkZXJJZCwgYm9va1BhZ2VSZXEpOwo=</text>
@@ -135,13 +135,13 @@
         <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>/dd2</text>
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search>dd2</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
+      <last-pattern>dd2</last-pattern>
       <last-replace />
       <last-substitute>^$</last-substitute>
       <last-dir>1</last-dir>
@@ -153,6 +153,7 @@
         <entry>list</entry>
         <entry>inert</entry>
         <entry>insert</entry>
+        <entry>dd2</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
@@ -168,6 +169,8 @@
         <entry>wqa</entry>
         <entry>on</entry>
         <entry>qa</entry>
+        <entry>dd2</entry>
+        <entry>/dd2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
