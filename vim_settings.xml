@@ -106,7 +106,7 @@
         <text>Prov</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>suc</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBUcmF2ZWxPcmRlciB0cmF2ZWxPcmRlciA9IGJ1aWxkTG9jYWxPcmRlcihlcnBPcmRlcklkLCBib29rQmVhbiwgY29zdENlbnRlciwgYm9va1BhZ2VSZXEsIGFjY291bnQpOwogICAgICAgIExpc3Q8VHJhdmVsUmVhc29uPiB0cmF2ZWxSZWFzb25zID0gYnVpbGRUcmF2ZWxSZWFzb24oZXJwT3JkZXJJZCwgYm9va1BhZ2VSZXEpOwo=</text>
@@ -140,9 +140,9 @@
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search>suc</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern>suc</last-pattern>
       <last-replace />
       <last-substitute>^$</last-substitute>
       <last-dir>1</last-dir>
@@ -156,6 +156,8 @@
         <entry>insert</entry>
         <entry>dd2</entry>
         <entry>todo</entry>
+        <entry>paysuc</entry>
+        <entry>suc</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
@@ -176,6 +178,7 @@
         <entry>qaz</entry>
         <entry>aq</entry>
         <entry>qa</entry>
+        <entry>/suc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
