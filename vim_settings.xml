@@ -110,7 +110,7 @@
         <text>Prov</text>
       </register>
       <register name="/" type="4">
-        <text>suc</text>
+        <text>dd4</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBUcmF2ZWxPcmRlciB0cmF2ZWxPcmRlciA9IGJ1aWxkTG9jYWxPcmRlcihlcnBPcmRlcklkLCBib29rQmVhbiwgY29zdENlbnRlciwgYm9va1BhZ2VSZXEsIGFjY291bnQpOwogICAgICAgIExpc3Q8VHJhdmVsUmVhc29uPiB0cmF2ZWxSZWFzb25zID0gYnVpbGRUcmF2ZWxSZWFzb24oZXJwT3JkZXJJZCwgYm9va1BhZ2VSZXEpOwo=</text>
@@ -140,13 +140,13 @@
         <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>/dd4</text>
       </register>
     </registers>
     <search>
-      <last-search>suc</last-search>
+      <last-search>dd4</last-search>
       <last-offset />
-      <last-pattern>suc</last-pattern>
+      <last-pattern>dd4</last-pattern>
       <last-replace />
       <last-substitute>^$</last-substitute>
       <last-dir>1</last-dir>
@@ -162,6 +162,7 @@
         <entry>todo</entry>
         <entry>paysuc</entry>
         <entry>suc</entry>
+        <entry>dd4</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
@@ -183,6 +184,7 @@
         <entry>aq</entry>
         <entry>qa</entry>
         <entry>/suc</entry>
+        <entry>/dd4</entry>
       </history-cmd>
       <history-expr />
       <history-input />
