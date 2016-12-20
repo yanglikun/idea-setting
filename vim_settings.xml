@@ -6,8 +6,8 @@
       <file name="D:/worksapce/java8/src/test/java/test/Main.java" timestamp="1476342586822">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" timestamp="1481336717624">
-        <mark key="'" line="19" column="50" />
+      <file name="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" timestamp="1482220074361">
+        <mark key="'" line="574" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1436419626333">
         <mark key="[" line="0" column="0" />
@@ -100,7 +100,12 @@
       <jump line="953" column="0" filename="D:/worksapce/air.jipiao/airplane-service/src/main/java/com/jd/airplane/service/utils/BookINTFlightUtils.java" />
       <jump line="311" column="0" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoOAServiceImpl.java" />
       <jump line="216" column="45" filename="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoBaseService.java" />
-      <jump line="19" column="50" filename="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" />
+      <jump line="38" column="13" filename="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" />
+      <jump line="219" column="16" filename="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" />
+      <jump line="2" column="0" filename="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" />
+      <jump line="19" column="0" filename="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" />
+      <jump line="0" column="0" filename="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" />
+      <jump line="574" column="0" filename="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
