@@ -171,7 +171,6 @@
         <entry>j-passenger-pl</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/^$//g</entry>
         <entry>g/^$/d</entry>
         <entry>g/^\s*$/d</entry>
         <entry>plugin</entry>
@@ -191,6 +190,7 @@
         <entry>/suc</entry>
         <entry>/dd4</entry>
         <entry>/j-passenger-pl</entry>
+        <entry>%!xxd</entry>
       </history-cmd>
       <history-expr />
       <history-input />
