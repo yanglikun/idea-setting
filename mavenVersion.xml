@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="-Xmx512m -Didea.maven3.use.compat.resolver" embedderJdk="1.6" mavenHome="D:/soft/apache-maven-3.0.5" />
+  <component name="MavenVersion" vmOptions="-Xmx512m -Didea.maven3.use.compat.resolver" embedderJdk="1.8" mavenHome="D:/soft/java/maven/apache-maven-3.0.5" />
 </application>
