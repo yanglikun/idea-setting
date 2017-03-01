@@ -54,6 +54,10 @@
           <option name="url" value="git://git.jetbrains.org/idea/community.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.jd.com" />
+          <option name="userName" value="yanglikun" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\worksapce\git" />
