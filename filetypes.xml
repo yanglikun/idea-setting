@@ -9,6 +9,7 @@
       <mapping pattern="CCC" type="PLAIN_TEXT" />
       <mapping pattern="BBB" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern="c5" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="AAA" type="PLAIN_TEXT" />
