@@ -87,6 +87,9 @@
       <file name="D:/worksapce/air.jipiao/airplane-service/src/main/java/com/jd/airplane/service/utils/BookINTFlightUtils.java" timestamp="1480757109411">
         <mark key="'" line="953" column="0" />
       </file>
+      <file name="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ShopService.java" timestamp="1493448611756">
+        <mark key="'" line="6" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="146" column="42" filename="D:/worksapce/pop/jd-lottery/branches/20150612_ccl/jd-lottery-web/src/main/webapp/WEB-INF/vm/activity/ccl_blueNum.vm" />
@@ -127,6 +130,10 @@
       <jump line="29" column="24" filename="D:/worksapce/mock/other/mymockserver/src/main/java/example/Main.java" />
       <jump line="0" column="0" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/test/resources/mybatis-config-test.xml" />
       <jump line="11" column="39" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/resources/mybatis/mapper/OperationLogMapper.xml" />
+      <jump line="1" column="0" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ShopService.java" />
+      <jump line="5" column="0" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ShopService.java" />
+      <jump line="193" column="1" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ShopService.java" />
+      <jump line="6" column="0" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ShopService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
