@@ -75,13 +75,6 @@
         <mark key="]" line="29" column="66" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/worksapce/pop/jd-lottery/branches/20150612_ccl/jd-lottery-web/src/main/webapp/WEB-INF/vm/activity/ccl_blueNum.vm" timestamp="1436419756817">
-        <mark key="'" line="247" column="12" />
-        <mark key="[" line="95" column="44" />
-        <mark key="]" line="95" column="45" />
-        <mark key="." line="95" column="45" />
-        <mark key="^" line="146" column="42" />
-      </file>
       <file name="D:/worksapce/pop/jd-lottery/branches/20150612_ccl/jd-lottery-manager/src/main/java/com/jd/lottery/manager/omission/impl/LotteryOmissionManagerImpl.java" timestamp="1436418353020">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -89,6 +82,9 @@
       </file>
       <file name="D:/worksapce/air.jipiao/airplane-service/src/main/java/com/jd/airplane/service/utils/BookINTFlightUtils.java" timestamp="1480757109411">
         <mark key="'" line="953" column="0" />
+      </file>
+      <file name="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ImageUploadService.java" timestamp="1493611148858">
+        <mark key="'" line="14" column="83" />
       </file>
       <file name="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ShopService.java" timestamp="1493448611756">
         <mark key="'" line="6" column="0" />
@@ -139,6 +135,7 @@
       <jump line="6" column="0" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ShopService.java" />
       <jump line="5" column="18" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/webapp/WEB-INF/templates/ware/shopList.html" />
       <jump line="149" column="6" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/webapp/WEB-INF/templates/ware/shopList.html" />
+      <jump line="14" column="83" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ImageUploadService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
