@@ -178,7 +178,7 @@
         <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>/dd4</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -219,11 +219,11 @@
         <entry>/todo</entry>
         <entry>qaz</entry>
         <entry>aq</entry>
-        <entry>qa</entry>
         <entry>/suc</entry>
         <entry>/dd4</entry>
         <entry>/j-passenger-pl</entry>
         <entry>%!xxd</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
