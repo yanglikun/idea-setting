@@ -56,6 +56,9 @@
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="37" />
       </file>
+      <file name="D:/worksapce/jd-ippt/jd-ippt-web/src/main/java/com/jd/ippt/web/controller/order/OrderController.java" timestamp="1493973538557">
+        <mark key="'" line="15" column="0" />
+      </file>
       <file name="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoOAServiceImpl.java" timestamp="1480767025257">
         <mark key="'" line="311" column="0" />
         <mark key="[" line="70" column="0" />
@@ -136,6 +139,8 @@
       <jump line="5" column="18" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/webapp/WEB-INF/templates/ware/shopList.html" />
       <jump line="149" column="6" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/webapp/WEB-INF/templates/ware/shopList.html" />
       <jump line="14" column="83" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/ImageUploadService.java" />
+      <jump line="194" column="20" filename="D:/worksapce/jd-ippt/jd-ippt-web/src/main/java/com/jd/ippt/web/controller/order/OrderController.java" />
+      <jump line="15" column="0" filename="D:/worksapce/jd-ippt/jd-ippt-web/src/main/java/com/jd/ippt/web/controller/order/OrderController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
