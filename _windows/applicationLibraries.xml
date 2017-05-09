@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="com.alibaba:fastjson:1.2.31" type="repository">
+      <properties maven-id="com.alibaba:fastjson:1.2.31" />
+      <CLASSES>
+        <root url="jar://D:/worksapce/repository/com/alibaba/fastjson/1.2.31/fastjson-1.2.31.jar!/" />
+        <root url="jar://D:/worksapce/repository/com/squareup/retrofit2/retrofit/2.1.0/retrofit-2.1.0.jar!/" />
+        <root url="jar://D:/worksapce/repository/com/squareup/okhttp3/okhttp/3.5.0/okhttp-3.5.0.jar!/" />
+        <root url="jar://D:/worksapce/repository/com/squareup/okio/okio/1.11.0/okio-1.11.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
