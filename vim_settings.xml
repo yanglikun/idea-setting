@@ -3,6 +3,9 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/java/com/jd/ippt/man/web/controller/BlankPinController.java" timestamp="1495099068723">
+        <mark key="'" line="26" column="83" />
+      </file>
       <file name="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/timetask/WareOffShelveTask.java" timestamp="1494309213046">
         <mark key="'" line="11" column="8" />
       </file>
@@ -70,10 +73,8 @@
       <file name="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" timestamp="1482220074361">
         <mark key="'" line="574" column="0" />
       </file>
-      <file name="D:/worksapce/meeting/meetingman-web/pom.xml" timestamp="1477986027937">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
+      <file name="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/BlankPinService.java" timestamp="1495099543368">
+        <mark key="'" line="21" column="50" />
       </file>
       <file name="D:/worksapce/travel/jd-travel/jd-travel-service/src/main/java/com/jd/travel/service/jipiao/impl/JiPiaoServiceImpl.java" timestamp="1479113301571">
         <mark key="'" line="1" column="0" />
@@ -89,11 +90,6 @@
         <mark key="]" line="30" column="37" />
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="37" />
-      </file>
-      <file name="D:/worksapce/pop/jd-lottery/branches/20150612_ccl/jd-lottery-manager/src/main/java/com/jd/lottery/manager/omission/impl/LotteryOmissionManagerImpl.java" timestamp="1436418353020">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -148,6 +144,10 @@
       <jump line="161" column="12" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/webapp/WEB-INF/templates/ware/search.html" />
       <jump line="2" column="0" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/webapp/WEB-INF/templates/ware/search.html" />
       <jump line="11" column="8" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/timetask/WareOffShelveTask.java" />
+      <jump line="43" column="8" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/java/com/jd/ippt/man/web/controller/BlankPinController.java" />
+      <jump line="26" column="83" filename="D:/worksapce/jd-ippt/jd-ippt-web-man/src/main/java/com/jd/ippt/man/web/controller/BlankPinController.java" />
+      <jump line="14" column="38" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/BlankPinService.java" />
+      <jump line="21" column="50" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/BlankPinService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
