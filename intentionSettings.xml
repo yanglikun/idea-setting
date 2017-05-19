@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Comments/Replace with Block Comment" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
   </component>
 </application>
