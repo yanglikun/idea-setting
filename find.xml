@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -28,9 +28,9 @@
       <mask>struts*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.vm</mask>
-      <mask>*.xml</mask>
       <mask>*.html</mask>
       <mask>*.properties</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
