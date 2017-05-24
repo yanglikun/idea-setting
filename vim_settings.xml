@@ -79,6 +79,11 @@
       <file name="D:/worksapce/jd_train/jd-train-service/src/main/java/com/jd/train/service/query/impl/TrainQueryServiceImpl.java" timestamp="1482220074361">
         <mark key="'" line="574" column="0" />
       </file>
+      <file name="D:/worksapce/else/java/spring-aop/src/main/resources/springStyle/declaration/manual/spring-config.xml" timestamp="1495586338739">
+        <mark key="[" line="44" column="69" />
+        <mark key="]" line="44" column="69" />
+        <mark key="." line="44" column="69" />
+      </file>
       <file name="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/BlankPinService.java" timestamp="1495099543368">
         <mark key="'" line="21" column="50" />
       </file>
@@ -158,11 +163,11 @@
       <jump line="22" column="12" filename="D:/worksapce/jd_train/jd-train-manager/src/main/java/com/jd/train/manager/redis/degrade/ClusterDynamicAdvice.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGFsZXJ0KCKy2df3yqew3CIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Prov</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>j-passenger-pl</text>
