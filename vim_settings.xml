@@ -102,6 +102,9 @@
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="37" />
       </file>
+      <file name="D:/worksapce/jd_train/jd-trainman-web/src/main/java/com/jd/train/web/action/cache/CacheAction.java" timestamp="1497065504503">
+        <mark key="'" line="50" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="146" column="42" filename="D:/worksapce/pop/jd-lottery/branches/20150612_ccl/jd-lottery-web/src/main/webapp/WEB-INF/vm/activity/ccl_blueNum.vm" />
@@ -161,6 +164,8 @@
       <jump line="21" column="50" filename="D:/worksapce/jd-ippt/jd-ippt-service/src/main/java/com/jd/ippt/service/BlankPinService.java" />
       <jump line="20" column="13" filename="D:/worksapce/jd-ippt/jd-ippt-web/src/main/java/com/jd/ippt/web/filter/AccessLogFilter.java" />
       <jump line="22" column="12" filename="D:/worksapce/jd_train/jd-train-manager/src/main/java/com/jd/train/manager/redis/degrade/ClusterDynamicAdvice.java" />
+      <jump line="34" column="50" filename="D:/worksapce/jd_train/jd-trainman-web/src/main/java/com/jd/train/web/action/cache/CacheAction.java" />
+      <jump line="50" column="28" filename="D:/worksapce/jd_train/jd-trainman-web/src/main/java/com/jd/train/web/action/cache/CacheAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
