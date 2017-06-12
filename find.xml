@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'jd-train'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -25,13 +26,13 @@
       <mask>*.class</mask>
       <mask>*.js</mask>
       <mask>*.pom</mask>
-      <mask>*.java</mask>
       <mask>struts*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.vm</mask>
       <mask>*.html</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
