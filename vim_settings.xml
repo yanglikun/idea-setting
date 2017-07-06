@@ -208,7 +208,7 @@
         <text>23</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>help</text>
       </register>
     </registers>
     <search>
@@ -234,7 +234,6 @@
         <entry>j-passenger-pl</entry>
       </history-search>
       <history-cmd>
-        <entry>g/^$/d</entry>
         <entry>g/^\s*$/d</entry>
         <entry>plugin</entry>
         <entry>plugins</entry>
@@ -254,6 +253,7 @@
         <entry>/j-passenger-pl</entry>
         <entry>%!xxd</entry>
         <entry>qa</entry>
+        <entry>help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
