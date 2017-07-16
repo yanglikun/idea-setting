@@ -20,6 +20,8 @@
   </option>
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
