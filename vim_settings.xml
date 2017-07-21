@@ -194,7 +194,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>response</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBodG1sID0gdGVtcGxhdGUoJ3Jlc3BvbnNlSGVhZGVyVGVtcGxhdGUnLCB7fSk7CiAgICAkKCIjcmVzcG9uc2VIZWFkZXJJZCIpLmFwcGVuZChodG1sKTsK</text>
@@ -231,9 +231,9 @@
       </register>
     </registers>
     <search>
-      <last-search>response</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>response</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace />
       <last-substitute>^$</last-substitute>
       <last-dir>1</last-dir>
@@ -253,11 +253,11 @@
         <entry>j-passenger-pl</entry>
         <entry>responseheader</entry>
         <entry>response</entry>
+        <entry>unexpectedsearch</entry>
+        <entry>searchunexpected</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
-        <entry>g/^\s*$/d</entry>
-        <entry>plugin</entry>
-        <entry>plugins</entry>
         <entry>actionlist plugin</entry>
         <entry>split</entry>
         <entry>only</entry>
@@ -275,6 +275,9 @@
         <entry>%!xxd</entry>
         <entry>qa</entry>
         <entry>help</entry>
+        <entry>/unexpectedsearch</entry>
+        <entry>/searchunexpected</entry>
+        <entry>/logger</entry>
       </history-cmd>
       <history-expr />
       <history-input />
