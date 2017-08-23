@@ -3,4 +3,5 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="JD_PLT_EXT" />
 </application>
